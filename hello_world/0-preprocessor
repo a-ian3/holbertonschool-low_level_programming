@@ -1,2 +1,2 @@
 #!/bin/bash
-if [ -z "$CFILE" ]; then
+gcc -E $CFILE > c
