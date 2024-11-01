@@ -13,6 +13,5 @@ void print_array(int *a, int n);
 char *_strcpy(char *dest, char *src);
 int _atoi(char *s);
 void rev_string(char *s);
-char *_strncat(char *dest, char *src, int n);
 char *_strcat(char *dest, char *src);
 #endif
